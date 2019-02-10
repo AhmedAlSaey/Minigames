@@ -9,6 +9,11 @@ import javax.swing.JFrame;
 import java.awt.BorderLayout;
 import java.awt.Container;
 import javax.swing.JTable;
+/**
+ * 
+ * @author Ahmed Elqaffas
+ * Class for the medium difficulty
+ */
 
 public class MediumClassS extends JFrame {
     private String[] titles={"Rank","Username","Time (Sec)"};

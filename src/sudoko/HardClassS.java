@@ -10,6 +10,12 @@ import java.awt.BorderLayout;
 import java.awt.Container;
 import javax.swing.JTable;
 
+/**
+ * 
+ * @author Ahmed Elqaffas
+ * Class for the hard difficulty
+ */
+
 public class HardClassS extends JFrame {
     private String[] titles={"Rank","Username","Time (Sec)"};
     private Object[][] players=new Object[10][3];
